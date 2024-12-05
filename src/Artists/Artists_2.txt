@@ -1,0 +1,19 @@
+Paul Cezanne,1839,Aix-en-Provence, France
+James de Rijk,1806,Hilversum,Netherlands
+Rembrandt,1606,Leiden,Netherlands
+Edgar Degas,1834,Paris,France
+Pierre-Auguste Renoir,1841,Limoges,France
+John William Godward,1861,Wimbledon,England
+Gustave Courbet,1819,Ornans,France
+Rubens,1577,Siegen,Germany
+Floris van Dyck,1600,Delft,Netherlands
+Claude Monet,1840,Paris,France
+Paul Gauguin,1848,Paris,France
+Leonardo Da Vinci,1452,Anchiano,Italy
+Edouard Manet,1832,Paris,France
+Picasso,1881,Malaga,Spain
+Michelangelo,1475,Carpese,Italy
+Henri Fantin-Latour,1836,Grenoble,France
+Jan Cornelisz Vermeyen,1504,Beverwijk,Netherlands
+Van Gogh,1853,Zundertn,Netherlands
+Titian,1488,Pieve di Cadore,Italy

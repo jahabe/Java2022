@@ -1,0 +1,6 @@
+Kandinsky,1866,Moscow,Russia
+Hokusai,1760,Edo,Japan
+Repin,1844,Chuhuiv,Ukraine
+Vasnetsov,1848,Vyatka Governorate,Russia
+Gan,706,Chang'an, China
+Van_Gogh,1853,Zundertn,Netherlands
